@@ -1,0 +1,6 @@
+{
+  "name": "Infertility Ultrasound Pro",
+  "description": "Comprehensive Reproductive Ultrasound educational foundation authored by Dr Devendra N Bhole.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
